@@ -1,6 +1,0 @@
-v 3
-d Postestimation command to correct for overdispersion after fitting xtpoisson
-d Ben Armstrong, Aurelio Tobías
-d December 2022
-f xtodp.ado
- 
