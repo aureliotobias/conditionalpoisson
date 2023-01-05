@@ -9,5 +9,5 @@ Tobías A, Armstrong B, Gasparrini A. **Analysis of time-stratified case-crossov
 
 * **slides_2014_UK_Stata.pdf** Conference slides updated November 2022. 
 
-* **xtodp.adp** writen-user Stata postestimation command to correct for overdispersion after fittion a conditional Poisson regression model witht he **xtpoisson** command.
+* **xtodp.adp** user-written Stata postestimation command to correct for overdispersion after fittion a conditional Poisson regression model witht he **xtpoisson** command.
 
