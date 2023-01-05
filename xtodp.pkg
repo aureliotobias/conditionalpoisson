@@ -1,0 +1,7 @@
+v 3
+d Postestimation command to correct estimates standard errors' for overdispersion after fitting xtpoisson
+d Ben Armstrong, Aurelio Tobías
+d November 2022
+f xtodp.ado
+f xtodp.sthlp  
+ 
