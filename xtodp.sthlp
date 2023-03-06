@@ -19,7 +19,7 @@
 {title:Syntax}
 
 {p 8 17 2}
-{cmdab:xtodp} 
+{cmdab:xtodp} [{it:if}] [{it:in}]
 
 {marker examples}{...}
 {title:Examples}
