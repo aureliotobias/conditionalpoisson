@@ -1,4 +1,4 @@
-*! xtodp 2.0.0, 3 March 2023
+*! xtodp 3.0.0, 06mar2023
 *! Postestimation command to correct estimates for overdispersion after using xtpoisson , fe
 *! based on xtpoisson_addOD.ado (Ben Armstrong, BMC Med Res Methodol 2014, Additional file 1)
 *! and further incorporate [if] [in] by Aurelio Tobias (aurelio.tobias@gmail.com)
