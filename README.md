@@ -11,3 +11,6 @@ Tobías A, Armstrong B, Gasparrini A. **Analysis of time-stratified case-crossov
 
 * **xtodp** is a user-written **Stata** postestimation command to correct estimates' standard errors for overdispersion after fitting conditional Poisson regression with the **xtpoisson** command. It can be installed by typing in the Stata Command Window:<br>
 . net install xtodp, from(https://raw.githubusercontent.com/aureliotobias/conditionalpoisson/master/)
+
+* **mkcco** is a user-written **Stata** command to convert daily time-series data to individual time-stratified case-crossover data to be analized using conditional logistic regression with the **clogit** command. It can be installed by typing in the Stata Command Window:<br>
+. net install mkcco, from(https://raw.githubusercontent.com/aureliotobias/conditionalpoisson/master/)
