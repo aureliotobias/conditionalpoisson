@@ -1,5 +1,10 @@
-v 3
+v 4
 d Postestimation command to correct estimates standard errors' for overdispersion after fitting xtpoisson
 d Ben Armstrong, Aurelio Tobías
 d November 2022
 p xtodp 
+d
+d Command to convert daily time-series data to individual time-stratified case-crossover data to be analized with clogit
+d Aurelio Tobías
+d November 2022
+p mkcco 
