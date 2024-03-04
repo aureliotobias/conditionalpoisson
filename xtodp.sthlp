@@ -42,6 +42,8 @@
 
 {phang}Armstrong B, Gasparrini A, Tobías A. 2014. Conditional Poisson models: a flexible alternative to conditional logistic case cross-over analysis. {it:BMC Med Res Methodol} 14: 122. {browse "https://doi.org/10.1186/1471-2288-14-122"}
 
+{phang}Tobías A, Kim Y, Madaniyazi L. 2024. Time-stratified case-crossover studies for aggregated data in environmental epidemiology: a tutorial. {it:Int J Epidemiol} 35: dyae020. {browse "https://doi.org/10.1093/ije/dyae020"}
+
 {phang}Iñiguez C, Ballester F, Tobías A. 2022. Data supporting the short-term health effects of temperature and air pollution in Valencia, Spain. {it:Data in Brief} 44: 108518. {browse "https://doi.org/10.1016/j.dib.2022.108518"}
 
 {marker author}{...}
