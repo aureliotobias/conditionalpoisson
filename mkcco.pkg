@@ -1,0 +1,6 @@
+v 1
+d Convert daily time-series data to individual time-stratified case-crossover datas to be analized with conditional logistic regression
+d Aurelio Tobías
+d November 2022
+f mkcco.ado
+f mkcco.sthlp
