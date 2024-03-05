@@ -1,4 +1,7 @@
-v 4
+d Stata commands by Aurelio Tobias 
+d aurelio.tobias@gmail.com
+d aurelio.tobias@idaea.cic.es
+d
 d Postestimation command to correct estimates standard errors' for overdispersion after fitting xtpoisson
 d Ben Armstrong, Aurelio Tobías
 d November 2022
@@ -8,3 +11,4 @@ d Command to convert daily time-series data to individual time-stratified case-c
 d Aurelio Tobías
 d November 2022
 p mkcco 
+d
